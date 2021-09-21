@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**sridhar-sp/sridhar-sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thank you so much for checking out my work. 
 
-Here are some ideas to get you started:
+#### About myself
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a native android developer, currently exploring other domains to get a sense of technology breadth.
+
+#### Current interest
+- 🔭 I’m currently working on building [my personal portfolio](https://sridhar-sp.github.io/) using react
+
+
+#### Social:
+
+💼 [Linkedin](https://www.linkedin.com/in/sridharsp/) 
+🕊️ [Twitter](https://twitter.com/sridhar_s27)
+📫 [Gmail](sridharthechosenone@gmail.com)
+
+
+
+
