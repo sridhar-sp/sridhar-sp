@@ -6,9 +6,9 @@ Thank you so much for checking out my work.
 
 I'm a native android developer, currently exploring other domains to get a sense of technology breadth.
 
-#### Current interest
+<!-- #### Current interest
 - 🔭 I’m currently working on building [my personal portfolio](https://sridhar-sp.github.io/) using react
-
+ -->
 
 #### Social:
 
